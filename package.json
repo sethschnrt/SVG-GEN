@@ -1,0 +1,23 @@
+{
+  "name": "svg-gen",
+  "version": "1.0.0",
+  "description": "This is a command line application that uses node.js to generate a simple SVG logo based on the selections a user makes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sethschnrt/SVG-GEN.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sethschnrt/SVG-GEN/issues"
+  },
+  "homepage": "https://github.com/sethschnrt/SVG-GEN#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
