@@ -31,3 +31,5 @@ Clone the github repository at https://github.com/sethschnrt/SVG-GEN to your com
 If you have any questions about the repo, open an issue or contact me directly at undefined. You can find more of my work at [undefined](https://github.com/undefined/).
 
 ## Link to walkthrough video.
+
+ https://drive.google.com/file/d/1llrigioU2sMTCv7rumsJmGpRxQButm20/view
