@@ -28,7 +28,7 @@ Clone the github repository at https://github.com/sethschnrt/SVG-GEN to your com
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at seth.schoenert@gmail.com. You can find more of my work at [undefined](https://github.com/seth-schnrt/).
+If you have any questions about the repo, open an issue or contact me directly at seth.schoenert@gmail.com. You can find more of my work at [sethschnrt](https://github.com/sethschnrt/).
 
 ## Link to walkthrough video.
 
